@@ -5,6 +5,7 @@ I'm proficient in JavaScript, React, TypeScript, SCSS, and HTML. I'm very passio
 **Ready for new challenges and eager to share my ideas.**
 
 ## My projects 🔭 
+- [WIP 🌱 React & TypeScript - Take a note App](https://github.com/Meg-Sowka/take_a_note)
 - [React & TypeScript on FE. Mobile Devices Shop](https://github.com/PL-FE-MAY23-WebWeavers/product_catalog)
 - [Museum Lading Page](https://github.com/Meg-Sowka/the_MET)
 
