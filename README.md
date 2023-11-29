@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Marzena and I'm a Front-End Developer based in Katowice, Poland.
+My name is Marzena and I'm a Front-End Developer.
 I'm proficient in JavaScript, React, TypeScript, SCSS, and HTML. I'm very passionate about creating visually appealing and user-friendly interfaces.
 **Ready for new challenges and eager to share my ideas.**
 
